@@ -27,7 +27,7 @@ Głównym celem projektu jest stworzenie filtra anty-phishingowego, który będz
 # Usługa anty-phisingowa
 
 ## Wymagania funkcjonalne
-
+Użytkownik powinien posiadać możliwość ciągłego korzystania z usługi. Wiadomości otrzymane przez użytkownika powinny być analizowane przez filtr w śrowisku sand-boxowym w celu uniknięcia ewentualnych zagrożeń. Następnie zweryfikowane wiadomości trafiają do użytkownika, który w tym momencie posiada pewność, że jest ona bezpieczna. Jest to główny cel produktu, którym jest filtr anty-phisingowy. Istotnym elementem jest czas, ponieważ przewidujemy, że filtr będzie
 ## Wymagania bezpieczeństwa
 
 ## Wymagania wydajnościowe
