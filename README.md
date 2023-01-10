@@ -45,9 +45,12 @@ Do poprawnego działania tego modułu wymagane jest wprowadzenie do usługi doda
 ## Usługa raportowania
 
 ## Wymagania funkcjonalne
+W usłudze raportowania jest możliwość wybrania gotowego szablonu i nazwy raportu oraz przydzielenie go do odpowiedniej grupy raportów . Możliwość korzystania z narzędzi do analizy oraz przedstawienia danych.Sprawdzenie i porównywanie danych raportowych w celu podjęcia na ich podstawie ważnych decyzji biznesowych.Dowolność w podjęciu decyzji o udostępnieniu wygenerowanego raportu.
 
 ## Wymagania bezpieczeństwa
+Zapisywanie wygenerwoanych raportów w chmurze.Utrzymywanie usuniętych raportów w odpowiednim folderze z możliwością przywrócenia przez pewien czas.
 
 ## Wymagania wydajnościowe
+Możliwie szybkie wygenerowanie raportu.
 
 
