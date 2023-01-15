@@ -27,11 +27,11 @@ Głównym celem projektu jest stworzenie filtra anty-phishingowego, który będz
 # Usługa anty-phisingowa
 
 ## Wymagania funkcjonalne
-Użytkownik powinien posiadać możliwość ciągłego korzystania z usługi. Wiadomości otrzymane przez użytkownika powinny być analizowane przez filtr w śrowisku sand-boxowym w celu uniknięcia ewentualnych zagrożeń. Następnie zweryfikowane wiadomości trafiają do użytkownika, który w tym momencie posiada pewność, że jest ona bezpieczna. Jest to główny cel produktu, którym jest filtr anty-phisingowy. Istotnym elementem jest czas, ponieważ przewidujemy, że filtr będzie
+Użytkownik powinien posiadać możliwość ciągłego korzystania z usługi. Wiadomości otrzymane przez użytkownika powinny być analizowane przez filtr w śrowisku sand-boxowym w celu uniknięcia ewentualnych zagrożeń. Następnie zweryfikowane wiadomości trafiają do użytkownika, który w tym momencie posiada pewność, że jest ona bezpieczna. Jest to główny cel produktu, którym jest filtr anty-phisingowy. Istotnym elementem jest czas, ponieważ przewidujemy, że filtr będzie dział nieprzerwanie i przeanalizowane przez filtr wiadomości będą dostarczane do użytkownika na bieżąco. 
 ## Wymagania bezpieczeństwa
-
+W kontekście bezpiecznego funkcjonowania filtru konieczne jest stworzenie polityki bezpieczeństwa w celu uzyskania zbioru spójnych, precyzyjnych reguł i procedur, według których nasza organizacja będzie budować dane, dokumenty i zasoby informatyczne, zarządzać nimi oraz je udostępniać. Określać one będzie także, które zasoby i w jaki sposób mają być chronione. 
 ## Wymagania wydajnościowe
-
+Głównym założeniem filtra antyphisingowego jest sprawdzanie każdej odwiedzanej strony i porównywanie jej z listami znanych niebezpiecznych stron, również tych oferujących niechciane oprogramowanie. Listy te będą regularnie aktualizowane w określonych ramach czasowych. W przypadku próby wejścia na niebezpieczną stronę lub pobrania groźnego oprogramowania, filtr będzie blokował tego rodzaju działania.
 # Usługa przywracania usuniętych wiadomości
 Moduł ten odpowiada za przywrócenie usuniętych przez filtr wiadomości ponownie do użytkownika.
 
