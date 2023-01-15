@@ -24,6 +24,11 @@ Głównym celem projektu jest stworzenie filtra anty-phishingowego, który będz
 - Możliwość przywrócenia "odrzuconych" wiadomości
 - Zarządzanie filtrem z dowolnego miejsca
 
+# Schemat architektury
+
+![Alt text here](schemat-filtra.png)
+
+
 # Usługa anty-phisingowa
 
 ## Wymagania funkcjonalne
